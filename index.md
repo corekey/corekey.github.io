@@ -36,7 +36,7 @@ I have been working on the analysis of threats in mission critical systems inclu
 - Sensor-based secure pairing between vehicle and in-cabin devices
 - Cellular-V2X security
 
-#### Graduate Research Assistant at Carnegie Mellon University Silicon Valley, NASA AMES Reserach Park, Moffett Field, CA (Aug 2010 - Dec 2014)
+#### Graduate Research Assistant at Carnegie Mellon University CyLab, NASA AMES Reserach Park, Moffett Field, CA (Aug 2010 - Dec 2014)
 - User tracking and user privacy protection in Wi-Fi networks
 - Statistical attack detection over anonymized wireless networks
 - Android phone Wi-Fi mesh network
