@@ -26,7 +26,7 @@ I have been working on the analysis of threats in mission critical systems inclu
 - SBOM, SAST, DAST, fuzz testing
 
 #### Automotive Cybersecurity Research Scientist at Ford Greenfield Labs, Palo Alto, CA (Mar 2015 - Jul 2020)
-- Threat analysis and risk assessment of autonomous and conncected vehicles
+- Threat analysis and risk assessment of autonomous and connected vehicles
 - In-vehicle network security (CAN, CAN-FD, Auto Ethernet)
 - Automotive IDS (CAN IDS, smartphone-aided vehicle IDS)
 - Attack analysis and mitigation of vehicle access (keyfob/keyless systems, WiFi, Bluetooth)
