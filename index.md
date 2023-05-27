@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My research interest is in the analysis of potential threats in mission critical systems, e.g., digital healcare products, connected-automated vehicles, mobility services, telecommunication systems, and the development of countermeasures. I received PhD in Electrical and Computer Engineering from Carnegie Mellon University with a dissertation titled _“Securing Wi-Fi Access By Using Location-Aware Controls”_. I was a member of the Mobile, Embedded, Wireless Security group led by Dr. Patrick Tague. 
+I have been working on the analysis of threats in mission critical systems including medical devices, connected-automated vehicles, mobility services, telecommunication systems, and the development of countermeasures. I received PhD in Electrical and Computer Engineering from Carnegie Mellon University with a dissertation titled _“Securing Wi-Fi Access By Using Location-Aware Controls”_. I was a member of the Mobile, Embedded, Wireless Security group led by Dr. Patrick Tague. 
 
 ### Recent Publication
 
@@ -18,9 +18,12 @@ My research interest is in the analysis of potential threats in mission critical
 ### Experience
 
 #### Staff Product Security Engineer at Intuitive Surgical, Sunnyvale, CA (Jul 2020 - current)
-- Threat analysis and security design guidance on digital healthcare products
-- Regulatory cybersecurity compliance of digital healthcare products (e.g. FDA, EU-MDR)
-- Cloud and container security
+- Cyber threat modeling and cybersecurity architecture design on medical devices including surgical robots and networking components
+- Vulnerability assessment on products before market release
+- Regulatory cybersecurity compliance (e.g. FDA, EU-MDR)
+- Cloud, container, virtual machine security
+- Device to infrastructure authentication with TPM and PKI
+- SBOM, SAST, DAST, fuzz testing
 
 #### Automotive Cybersecurity Research Scientist at Ford Greenfield Labs, Palo Alto, CA (Mar 2015 - Jul 2020)
 - Threat analysis and risk assessment of autonomous and conncected vehicles
