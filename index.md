@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I have been working on the analysis of threats in mission critical systems including medical devices, connected-automated vehicles, mobility services, telecommunication systems, and the development of countermeasures. I received PhD in Electrical and Computer Engineering from Carnegie Mellon University with a dissertation titled _“Securing Wi-Fi Access By Using Location-Aware Controls”_. I was a member of the Mobile, Embedded, Wireless Security group led by Dr. Patrick Tague. 
+I have been working on the analysis of threats in mission-critical systems including telecommunication systems, medical devices, connected-automated vehicles, mobility services, and the development of countermeasures. I received PhD in Electrical and Computer Engineering from Carnegie Mellon University with a dissertation titled _“Securing Wi-Fi Access By Using Location-Aware Controls”_. I was a member of the Mobile, Embedded, Wireless Security group led by Dr. Patrick Tague. 
 
 ### Recent Publication
 
@@ -16,6 +16,9 @@ I have been working on the analysis of threats in mission critical systems inclu
 \* The full list can be found [here](https://www.linkedin.com/in/yu-seung-kim-4b25a024/details/publications/).
 
 ### Experience
+
+#### Corporate Vice President / Head of Security Lab. at Samsung Electronics, Suwon, South Korea (Jan 2024 - current)
+- Product Cybersecurity for vRAN, O-RAN, and next-gen telecommunication systems
 
 #### Staff Product Security Engineer at Intuitive Surgical, Sunnyvale, CA (Jul 2020 - current)
 - Cyber threat modeling and cybersecurity architecture design on medical devices including surgical robots and networking components
